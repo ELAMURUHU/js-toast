@@ -1,0 +1,38 @@
+
+
+.toast-header img{
+  border-radius: 15px;
+  padding-left: 10px;
+  width:20px;
+  height:auto;
+}
+.toast-header{
+  display: flex;
+  align-items: center;
+  
+  border-bottom: 2px solid gray;
+ }
+ 
+ .toast-header h2{
+	 padding-left:10px;
+ }
+ 
+ .toast-header p{
+	 padding-left:200px; 
+ }
+ .toast-header button{
+	 margin-left:10px;
+ }
+.toast-message{
+  border: 2px solid black;
+  width:500px;
+  height:auto;
+  background-color:#8080801f;
+  margin-top:40px;
+}
+
+
+
+.toast-body{
+	padding-left:10px
+}
